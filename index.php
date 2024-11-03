@@ -39,8 +39,7 @@ try {
         }
 
         h1,
-        h2 {
-            text-align: center;
+        h2 { text-align: center;
         }
 
         /* Navbar */
@@ -112,7 +111,6 @@ try {
     <!-- Navbar -->
     <div class="navbar">
         <a href="#info">Informasi</a>
-       
     </div>
 
     <h1>DKI JAKARTA</h1>
