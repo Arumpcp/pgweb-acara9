@@ -38,8 +38,8 @@ try {
             /* Contoh warna latar belakang */
         }
 
-        h1,
-        h2 { text-align: center;
+        h1,h2 { 
+            text-align: center;
         }
 
         /* Navbar */
@@ -83,10 +83,8 @@ try {
             border-collapse: collapse;
         }
 
-        table,
-        th,
-        td {
-            border: 1px solid black;
+        table, th, td 
+        {    border: 1px solid black;
             padding: 8px;
             text-align: center;
         }
